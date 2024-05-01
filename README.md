@@ -1,11 +1,16 @@
 # LaTeX Complete
 
+This repository is forked from https://github.com/maxkrieger/figma-latex-complete-plugin.
+I've switched to a pseudo-inline-math-mode format in Figma to facilitate easier editing and writing.
+**e.g.) "The equation $y=f(x)$"**
+
 ![recording](recording.gif)
 
 ## Developing
 
 After running your first build (below), add the plugin to your Figma desktop client. Open the `Resources` panel (shift-I), then click `Plugins`, select `Development`, click `+`, `Import plugin from manifest`, then select `manifest.json` in this repo.
 
+I used node v16.13.0.
 ### Dev build
 
 `npm run build:watch`
