@@ -2,7 +2,7 @@
 
 This repository is forked from https://github.com/maxkrieger/figma-latex-complete-plugin.
 I've switched to a pseudo-inline-math-mode format in Figma to facilitate easier editing and writing.
-**e.g.) "The equation $y=f(x)$"**
+**e.g.) "The equation \$ y=f(x) \$"**
 
 ![recording](recording.gif)
 
